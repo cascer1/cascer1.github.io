@@ -1,9 +1,6 @@
 encoding: UTF-8
-kramdown:
-    input: GFM
-    hard_wrap: false
-future: true
-jailed: false
+title: "cas.eliens.co"
+future: false
 theme: jekyll-theme-hacker
 gfm_quirks: paragraph_end
 defaults:
