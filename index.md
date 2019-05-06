@@ -3,7 +3,9 @@
 
 This site contains a (currently laughably tiny) collection of stories I've written.
 
-## Posts
+---
+
+## Posts by category
 
 {% for category in site.categories %}
 ### {{category[0]}}
@@ -11,5 +13,7 @@ This site contains a (currently laughably tiny) collection of stories I've writt
 {% for post in category[1] %}
 * [{{post.title}}]({{post.url}})
 {% endfor %}
+
+---
 
 {% endfor %}
