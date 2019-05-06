@@ -6,3 +6,10 @@ future: true
 jailed: false
 theme: jekyll-theme-hacker
 gfm_quirks: paragraph_end
+defaults:
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            author: "Cas Eliëns"
