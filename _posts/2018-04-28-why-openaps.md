@@ -1,5 +1,7 @@
 ---
 title: Why every diabetic should switch to a closed-loop system
+tags: [diabetes, OpenAPS, oref0, automation]
+categories: [diabetes]
 ---
 
 On Tuesday October 31st 2017, I flipped the switch (figuratively) to turn on my very own artificial pancreas system.
