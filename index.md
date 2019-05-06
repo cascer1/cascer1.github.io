@@ -3,9 +3,9 @@
 
 This site contains a (currently laughably tiny) collection of stories I've written.
 
----
-
 ## Posts by category
+
+---
 
 {% for category in site.categories %}
 ### {{category[0]}}
