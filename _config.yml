@@ -1,7 +1,7 @@
 encoding: UTF-8
 title: "cas.eliens.co"
 future: false
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 gfm_quirks: paragraph_end
 defaults:
     -
