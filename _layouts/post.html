@@ -12,11 +12,3 @@ layout: default
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
-
-{% if page.next %}
-{{page.next}}
-{% endif %}
-
-{% if page.previous %}
-{{page.previous}}
-{% endif %}
