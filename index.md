@@ -1,15 +1,13 @@
 
 **Hello, world!**
 
-This site contains a (currently laughably tiny) collection of stories I've written.
+This site contains a collection of stories I've written.
 
 ## Interesting stuff
 
 ---
 
 * [Universal Greeting Time (UGT)](/ugt.html)
-
-{{site.pages}}
 
 ## Posts by category
 
