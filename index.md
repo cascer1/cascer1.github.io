@@ -9,6 +9,8 @@ This site contains a (currently laughably tiny) collection of stories I've writt
 
 * [Universal Greeting Time (UGT)](/ugt.html)
 
+{{site.pages}}
+
 ## Posts by category
 
 ---
