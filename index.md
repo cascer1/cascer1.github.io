@@ -5,6 +5,8 @@ This site contains a (currently laughably tiny) collection of stories I've writt
 
 ## Interesting stuff
 
+---
+
 * [Universal Greeting Time (UGT)](/ugt.html)
 
 ## Posts by category
