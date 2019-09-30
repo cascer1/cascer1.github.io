@@ -23,3 +23,9 @@ This site contains a collection of stories I've written.
 ---
 
 {% endfor %}
+
+## Very Important Seals
+
+![mcafee](https://i.eliens.co/site/mcafee.jpg)
+![norton](https://i.eliens.co/site/norton_secure_seal.png)
+![trustwave](https://i.eliens.co/site/trustwave.jpg)
