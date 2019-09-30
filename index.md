@@ -26,6 +26,6 @@ This site contains stuff.
 
 ## Very Important Seals
 
-![mcafee](https://i.eliens.co/site/mcafee.jpg =175x)
-![norton](https://i.eliens.co/site/norton_secure_seal.png =175x)
-![trustwave](https://i.eliens.co/site/trustwave.jpg =175x)
+<img href="https://i.eliens.co/site/mcafee.jpg" height="175px" />
+<img href="https://i.eliens.co/site/norton_secure_seal.png" height="175px" />
+<img href="https://i.eliens.co/site/trustwave.jpg" height="175px" />
