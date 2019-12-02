@@ -26,6 +26,8 @@ This site contains stuff.
 
 ## Very Important Seals
 
-<img src="https://i.eliens.co/site/mcafee.jpg" height="75px" />
-<img src="https://i.eliens.co/site/norton_secure_seal.png" height="75px" />
-<img src="https://i.eliens.co/site/trustwave.jpg" height="75px" />
+<a href="https://www.troyhunt.com/heres-why-you-cant-trust-ssl-logos-on/" target="_blank">
+    <img src="https://i.eliens.co/site/mcafee.jpg" height="75px" />
+    <img src="https://i.eliens.co/site/norton_secure_seal.png" height="75px" />
+    <img src="https://i.eliens.co/site/trustwave.jpg" height="75px" />
+</a>
