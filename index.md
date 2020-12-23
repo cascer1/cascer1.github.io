@@ -26,9 +26,10 @@ This site contains stuff.
 
 ## Stuff I did
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="35ec5e10-1bda-4e4c-8fe9-39cd3ccb0625"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f1b3976a-e2c4-4c5c-ae9c-679ba57f605e"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="35ec5e10-1bda-4e4c-8fe9-39cd3ccb0625" data-share-badge-host="https://www.youracclaim.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f1b3976a-e2c4-4c5c-ae9c-679ba57f605e" data-share-badge-host="https://www.youracclaim.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4cbe824e-bb12-47fe-9189-e4dc24e71f9b" data-share-badge-host="https://www.youracclaim.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="28184da4-1583-4d34-8243-03ece8c36e89" data-share-badge-host="https://www.youracclaim.com"></div>
 
 ## Very Important Seals
 
