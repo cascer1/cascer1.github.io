@@ -3,6 +3,8 @@
 
 This site contains stuff.
 
+<img src="https://i.eliens.co/sigil.png" />
+
 ## Interesting stuff
 
 ---
