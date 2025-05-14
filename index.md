@@ -28,9 +28,9 @@ This site contains stuff.
 
 ## IYKYK
 
-GIT d- s+: a C++ UL++ P L++ E--- W++(+) N w$ M- PS++ PE- Y++@ PGP t++@ R+ tv b++() DI+ G e++ h--- r+++ y++
+FCM~3acd A+>++ C- D>+ H+~ M- P+ R- T++/+++ W-- Z- Sm- RLCT a+ cl++/+++ e++ f h+++ i++ p--/- sm++
 
-3acd A+>++ C- D>+ H+~ M- P+ R- T++/+++ W-- Z- Sm- RLCT a+ cl++/+++ e++ f h+++ i++ p--/- sm#
+GIT d- s+: a C++ UL++ P L++ E--- W++(+) N w$ M- PS++ PE- Y++@ PGP t++@ R+ tv b++() DI+ G e++ h--- r+++ y++**
 
 ## We have a family crest now
 
